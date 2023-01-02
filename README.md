@@ -1,2 +1,5 @@
-# Java-and-Phyton-practice
-It is a short practice and comparison between Java and Phyton
+## Java and Phyton comparison
+
+This is a practical comparison between Java and Phyton after completing the registered course of ITF "First steps in programming - Practical comparison between Java and Phyton."
+
+
